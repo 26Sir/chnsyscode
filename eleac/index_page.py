@@ -25,3 +25,4 @@ def test_index_sjtj():
     res = requests.post("http://10.1.2.34:8899/eleac/statis/statis",json=data)
     res1 =res.json()
     print(res1)
+    print(res1.text)
