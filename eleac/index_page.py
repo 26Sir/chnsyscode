@@ -3,7 +3,6 @@
 
 import requests
 
-def
 def test_hq_ysj_da():
     data = {
         "caseTypeName": "民事"
