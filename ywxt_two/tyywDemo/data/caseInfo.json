@@ -1,0 +1,53 @@
+{
+  "name": "文某某减刑假释审查案件",
+  "baseInfo": {
+	"reviewStage": [
+		"征求意见审查",
+		"提请建议书副本审查及开庭",
+		"裁定审查"
+	],
+	"superviseCase": "N",
+	"focusCase": "N",
+	"specialEvent": "N",
+	"specialEventName": "无",
+	"caseAssigned": "N",
+	"foreign-related": "N",
+	"taiwanRelated": "N",
+	"summary": "案件摘要",
+	"note": "案件附注"
+},
+  "criminalInfo": [
+    {
+      "name": "文某某",
+      "baseInfo": {
+        "name": "文某某",
+        "sex": "性别不详",
+        "formerName": "文某",
+        "nickname": "老文",
+        "certificateType": "居民身份证",
+        "certificateNum": "198988198709080098",
+        "birthday": "1990-10-31",
+        "nationality": "中国",
+        "nation": "汉族",
+        "domicile": "山西省太原市小店区",
+        "residence": "黑龙江省齐齐哈尔市",
+        "residenceDetails": "黑龙江省齐齐哈尔市万国路和平街道666号",
+        "workHome": "无",
+        "unitOrschoolAddress": "北京市东城区",
+        "EducationalStatus": "小学",
+        "Identity": "农民",
+        "political": "预备党员",
+        "profession": "其他农、林、牧、渔、水利业生产人员",
+        "position": "领导",
+        "rank": "科员级",
+        "mainLeader": "N"
+      },
+      "sentence": {
+        "judgmentDocumentNumber": "32000",
+        "convicted": "贪污罪",
+        "propertyPunishment": "没收部分财产",
+        "deprivationOfPolitical": "3-4-5"
+      }
+    }
+  ]
+}
