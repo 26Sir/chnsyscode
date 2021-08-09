@@ -38,6 +38,6 @@ class Index_sjtj(BaseApi):
         '''
         data = {
             "method": "get",
-            "url": f"http://{ip}/eleac/#/basicData",
+            "url": f"http://{ip}/eleac",
         }
         return  self.send(**data)
