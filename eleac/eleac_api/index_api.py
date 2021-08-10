@@ -31,6 +31,13 @@ class Index_sjtj(BaseApi):
         }
         return self.send(**data)
     
+    def mrconfig(self,ip):
+        data = {
+            "method":"get",
+            "url" : f"http://{ip}/eleac/config/configInfo/get"
+        }
+        return self.send(**data)
+    
     def syym(self,ip):
         '''
         @param ip:
